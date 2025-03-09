@@ -9,11 +9,11 @@
 **International money**  
 **Money abroad**  
 **Money gram**  
-**	international remittances**  
+**international remittances**  
 **International remittance**  
 **Remittance feature**  
 **Money transfer**  
 **Remittances**  
 **Money send**  
-**('remittance', ['remittances', 'remittance'])**  
+**'remittance', ['remittances', 'remittance']**  
 **Send money**  
