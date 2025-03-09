@@ -11,7 +11,7 @@
 **المرأي**  
 **التوصل المرئي**  
 **تواصل المرئي**  
-**('المرئ', ['المرئي', 'المرئى', 'ومرئية', 'المرئ', 'والمرئي', 'والمرئية', 'المرئية', 'مرئية'])**  
+**'المرئ', ['المرئي', 'المرئى', 'ومرئية', 'المرئ', 'والمرئي', 'والمرئية', 'المرئية', 'مرئية']**  
 **المرءى**  
 **التواصل المرئ**  
 **صوتية ومرئية**  
@@ -20,8 +20,8 @@
 
 ## **English**:
 
-**Visual communications**: [Visual communication, visual, VISUAL COMMUNICATION, Visual Communication, visual communication]  
+**Visual communications**: [Visual communication, visual, VISUAL COMMUNICATION, Visual Communication, visual communication]
 **Vasual**  
-**	visual communication**  
+**visual communication**  
 **Visual connection**  
 **Visual comunication**  
