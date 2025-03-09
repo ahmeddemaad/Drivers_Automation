@@ -8,13 +8,12 @@
 **العملات المعدنية**  
 **العملات**  
 **جمعنا النقاط**  
-**('نقاط', ['نقاط', 'النقاط'])**  
+**'نقاط', [نقاط, النقاط]**  
 **مكافات**  
 **مكافأة**  
 **مكافآت العملات**  
 **مكآفآت**  
 **مكافأة العملات**  
-**REWARDS مكافأة**  
 **مكافأت العملات**  
 **نقطة**  
 **مكأفات**  
@@ -26,16 +25,16 @@
 
 
 ## **English**:
-
+**REWARDS مكافأة**  
 **Smiles points**  
 **Gochat coins**  
 **Coin rewards**: [Coin Rewards❤️❤️, Coin Reward, coin Rewards., Coin reward, Coin Rewards!!, Coin Rewards!, Coin rewards., coin rewards❤️, coin rewards.]  
 **Coin reward👏🔥❤️**  
 **Redeeming**  
-**('reward', ['rewards', 'reward'])**  
+**reward: [rewards, reward])**  
 **Coins redemption**: [coins]  
 **Earn coins**  
-**('redeem', ['redeeming', 'redeem', 'redeemable'])**  
+**redeem, [redeeming, redeem, redeemable]**  
 **Coins daily**  
 **Redeem coins**  
 **Redemption**  
