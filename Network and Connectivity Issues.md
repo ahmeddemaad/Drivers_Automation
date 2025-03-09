@@ -27,7 +27,8 @@
 
 </div>
 
-## **English**:
+### **English**:
+
  **Disconnected mobile**  
  **Line disconnected**  
  **Internet outage**  
