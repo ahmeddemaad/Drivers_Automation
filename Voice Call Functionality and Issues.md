@@ -17,11 +17,17 @@
 </div>
 
 ## **English**:
+
 **Calling**
+
 **Call feature**
+
 **Voice calls**
+
 **Make calls**
+
 **Voice/Audio Calls**
+
 **Voice**
 **Call**
 **Can't call**
