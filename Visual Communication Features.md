@@ -21,6 +21,7 @@
 ## **English**:
 
 **Visual communications**: [Visual communication, visual, VISUAL COMMUNICATION, Visual Communication, visual communication]
+
 **Vasual**  
 **visual communication**  
 **Visual connection**  
