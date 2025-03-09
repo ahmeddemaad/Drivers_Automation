@@ -3,7 +3,7 @@
 ## **English**:
 
 **Races**  
-**('race', ['races', 'race'])**  
+**'race' : ['races', 'race']**  
 **Hamilton**  
 **Lewishamilton**: [lewis]  
 **Wins**  
