@@ -1,7 +1,7 @@
 # **Business Services**
 
 ## **Arabic**:
-**'فرع', ['الفرع', 'فرع', 'للفرع', 'فرعكم', 'بفرع', 'لفرع']**  
+**'فرع': ['الفرع', 'فرع', 'للفرع', 'فرعكم', 'بفرع', 'لفرع']**  
 **اتصالات بيزنس**  
 
 
@@ -9,11 +9,11 @@
 
 **New business**  
 **Online business**  
-**'business', ['business', 'businesses']**  
+**'business': ['business', 'businesses']**  
 **Registration**  
 **Business account**  
 **B2b**  
-**'partners', ['partnership', 'partners']**  
+**'partners': ['partnership', 'partners']**  
 **Representatives**  
 **Sales advisor**  
 **Relationships**  
