@@ -7,4 +7,4 @@
 **Eanduae**  
 **Dxb**  
 **Smilesuae**  
-**('emirates', ['emirates', 'uae_team_emirates'])**  
+**emirates : [emirates, uae_team_emirates]**  
